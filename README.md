@@ -5,7 +5,7 @@ On **UI Challenge: Interactive Photo Gallery**
 
 This is a photo interactive challenge which has an hover effect with a purple outline. 
 Once in responsivness the photos squeeze together to become smaller until it reaches a max-width of 400px where the header and subheader dissapears.\
-Here is its deployment from netlify web link to see on **live** : https://naomi-photointeractive-challenge.netlify.app/
+Here is its deployment from netlify web link to see on **live** : https://code-of-africa.onrender.com
 
 **Step 1**: Open Visual Studio Code
 **Step 2**: Create a folder
