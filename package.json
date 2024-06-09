@@ -1,0 +1,22 @@
+{
+  "name": "code-of-africa",
+  "version": "1.0.0",
+  "description": "This is a take home challenge from code of africa",
+  "main": "sever.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
